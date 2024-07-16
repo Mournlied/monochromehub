@@ -1,0 +1,6 @@
+CREATE TABLE usuarios (
+     user_id SERIAL NOT NULL PRIMARY KEY,
+     nombre VARCHAR (100) UNIQUE NOT NULL,
+     email VARCHAR (255) UNIQUE NOT NULL,
+     password VARCHAR (300) NOT NULL
+);
