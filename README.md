@@ -17,7 +17,7 @@
   <li>Gestión de usuarios y cursos</li>
   <li>Implementación de rangos de autoridad (User, Moderador(a), Administrador(a), etc...)</li>
   <li>Implementación de perfiles y configuraciones de usuario/a</li>
-  <li>Documentaci'on y build del proyecto</li>
+  <li>Documentación y build del proyecto</li>
 </ul>
 <h3 align="left">Monochrom Hub API utiliza</h3>
 <ul>
